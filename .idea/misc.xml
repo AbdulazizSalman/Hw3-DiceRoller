@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abdulaziz/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1145" />
+        <entry key="..\:/Users/Abdulaziz/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/tuwaiq.xml" value="0.1" />
+        <entry key="..\:/Users/Abdulaziz/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2077922077922078" />
+        <entry key="..\:/Users/Abdulaziz/AndroidStudioProjects/MyApplication/app/src/main/res/layout/sample.xml" value="0.2" />
+        <entry key="..\:/Users/Abdulaziz/AndroidStudioProjects/MyApplication/app/src/main/res/layout/ttt.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Abdulaziz/AndroidStudioProjects/MyApplication/diceroll/src/main/res/layout/activity_main.xml" value="0.2077922077922078" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
