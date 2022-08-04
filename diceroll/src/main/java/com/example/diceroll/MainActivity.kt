@@ -4,8 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
-import android.widget.TextView
-import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
@@ -27,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         //new object
         val dice = Dice(6)
         // variable of image
-        val Dice_Image: ImageView = findViewById(R.id.dice_Image)
+        val Dice_Image: ImageView = findViewById(R.id.Dice_Image)
         //return random number
         val RandomNumber = dice.roll()
 
