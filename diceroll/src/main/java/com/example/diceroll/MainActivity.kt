@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         //new object
         val dice = Dice(6)
         // variable of image
-        val Dice_Image: ImageView = findViewById(R.id.Dice_Image)
+        val Dice_Image: ImageView = findViewById(R.id.Dice_image)
         //return random number
         val RandomNumber = dice.roll()
 
