@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val Button_Roll: Button = findViewById(R.id.Button_roll)
+        val Button_Roll: Button = findViewById(R.id.Button_roll1)
 
 
         Button_Roll.setOnClickListener {
@@ -27,9 +27,9 @@ class MainActivity : AppCompatActivity() {
         // variable of image
         val Dice_Image: ImageView = findViewById(R.id.Dice_image)
         //return random number
-        val RandomNumber = dice.roll()
+        val RandomNumber1 = dice.roll()
 
-        when(RandomNumber){
+        when(RandomNumber1){
             1 -> Dice_Image.setImageResource(R.drawable.dice_1)
             2 -> Dice_Image.setImageResource(R.drawable.dice_2)
             3 -> Dice_Image.setImageResource(R.drawable.dice_3)
