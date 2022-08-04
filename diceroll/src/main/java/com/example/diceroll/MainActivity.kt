@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val Button_Roll: Button = findViewById(R.id.Button_Roll)
+        val Button_Roll: Button = findViewById(R.id.Button_roll)
 
 
         Button_Roll.setOnClickListener {

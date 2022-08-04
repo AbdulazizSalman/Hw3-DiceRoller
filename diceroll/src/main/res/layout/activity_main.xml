@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/Button_Roll"
+        android:id="@+id/Button_roll"
         android:layout_width="130dp"
         android:layout_height="wrap_content"
         android:text="@string/roll"
